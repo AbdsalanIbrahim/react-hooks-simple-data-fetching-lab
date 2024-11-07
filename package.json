@@ -6,6 +6,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1",
+    "util": "^0.12.5",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
@@ -13,8 +14,8 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "mocha": "^8.2.1",
-    "msw": "^0.24.1"
+    "mocha": "^10.8.2",
+    "msw": "^2.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
